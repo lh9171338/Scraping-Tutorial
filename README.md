@@ -3,7 +3,7 @@
 
 # 1. Introduction
 
-This repository is Scraping tutorials.
+This repository is scraping tutorials.
 
 # 2. More Resources
 
